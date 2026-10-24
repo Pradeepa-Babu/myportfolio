@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:24.10.2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -48,10 +48,22 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <<h6>hi</body></h6>
+</body>
+</html>
+```
 
 ## OUTPUT
-
+myportfolio/Screenshot 2026-10-24 150846.png
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
